@@ -1,3 +1,9 @@
+# Formulario Multistep
+
+Este formulario cuenta con 3 pasos para completar un registro
+de una persona México, cuenta con las validaciones previo al envío y el almacenamiento de la data en su respectivo estado.
+Posteriormente se tendría que realizar algún fetch para enviar la información a alguna API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
